@@ -1,5 +1,6 @@
 -- Dhairya Amin Created @ 26 Oct 
 -- Task 2 Completed
+-- Server @ 24:78:90:1998
 -- Table to store user information (Admins, Patients, Doctors)
 CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
